@@ -1,2 +1,2 @@
-# resume
+# Resume
 个人简历
